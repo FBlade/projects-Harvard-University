@@ -1,0 +1,8 @@
+Ask for height and store in "height" variable
+For Loop through x times as equals to "height" for lines
+    For Loop through x times as equals to "height" for characters
+        Check if this loop pass is greater then parent loop
+            If so: print space, otherwise print #
+    End Loop
+End Loop
+
